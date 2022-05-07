@@ -1,0 +1,16 @@
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/CMakeFiles/rebuild_cache.dir
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/CMakeFiles/edit_cache.dir
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/server/CMakeFiles/rebuild_cache.dir
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/server/CMakeFiles/edit_cache.dir
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/server/src/CMakeFiles/rebuild_cache.dir
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/server/src/CMakeFiles/edit_cache.dir
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/server/src/CMakeFiles/server.dir
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/server/src/CMakeFiles/libserver.dir
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/server/src/domain/CMakeFiles/rebuild_cache.dir
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/server/src/domain/CMakeFiles/edit_cache.dir
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/server/src/domain/CMakeFiles/libstudent.dir
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/server/src/infrastructure/CMakeFiles/rebuild_cache.dir
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/server/src/infrastructure/CMakeFiles/edit_cache.dir
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/server/src/infrastructure/CMakeFiles/libstudentcontroller.dir
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/server/src/infrastructure/CMakeFiles/libstudentrepository.dir
+/home/user/Bureau/medshopp/webcpp/myapi1/src/build/server/src/infrastructure/CMakeFiles/libidgenerator.dir
